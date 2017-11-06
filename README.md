@@ -1,0 +1,2 @@
+# myNETcode
+belajar .NET je
